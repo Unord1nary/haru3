@@ -3,7 +3,7 @@ import sqlite3
 import time
 
 client = discord.Client()
-token = 'ODk4MDYyMTY1NjUzNzMzNDY2.YWevkQ.glhaS_-KQrQhecRNnCFl7Yc1anM'
+token = '??'
 
 @client.event
 async def on_connect():
